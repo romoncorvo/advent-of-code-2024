@@ -37,4 +37,30 @@ public class Day1Tests
         // Assert
         _testOutputHelper.WriteLine(result.ToString());
     }
+    
+    [Fact]
+    public void FindListSimilarity_WithExampleInput_Returns31()
+    {
+        // Arrange
+        var filePath = "./Day1/day-1-1-example.txt";
+        
+        // Act
+        var result = FindListSimilarity(filePath);
+        
+        // Assert
+        Assert.Equal(31, result);
+    }
+    
+    [Fact]
+    public void FindListSimilarity_WithRealInput_ReturnsAnswer()
+    {
+        // Arrange
+        var filePath = "./Day1/day-1-1-input.txt";
+        
+        // Act
+        var result = FindListSimilarity(filePath);
+        
+        // Assert
+        _testOutputHelper.WriteLine(result.ToString());
+    }
 }
