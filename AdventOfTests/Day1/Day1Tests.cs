@@ -13,7 +13,7 @@ public class Day1Tests
     }
 
     [Fact]
-    public void FindListDistance_WithExampleInput_Returns11()
+    public void FindListDistance_WithExampleInput_ReturnsExampleAnswer()
     {
         // Arrange
         var filePath = "./Day1/day-1-1-example.txt";
@@ -39,7 +39,7 @@ public class Day1Tests
     }
     
     [Fact]
-    public void FindListSimilarity_WithExampleInput_Returns31()
+    public void FindListSimilarity_WithExampleInput_ReturnsExampleAnswer()
     {
         // Arrange
         var filePath = "./Day1/day-1-1-example.txt";

@@ -4,5 +4,9 @@
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=81829459_002D72c0_002D49d0_002D8f25_002Def5ca6afda20/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="FindListDistance_WithExampleInput_Returns11" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;xUnit::72C0081F-F553-4DE5-A832-995FA01EF677::net9.0::AdventOfTests.Day1.Day1Tests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::72C0081F-F553-4DE5-A832-995FA01EF677::net9.0::AdventOfTests.Day2.Day2Tests.CountSafeReports_WithExampleInput_ReturnsExampleAnswer&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::72C0081F-F553-4DE5-A832-995FA01EF677::net9.0::AdventOfTests.Day2.Day2Tests.FindListDistance_WithRealInput_ReturnsAnswer&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::72C0081F-F553-4DE5-A832-995FA01EF677::net9.0::AdventOfTests.Day2.Day2Tests.CountSafeReportsWithTolerance_WithExampleInput_ReturnsExampleAnswer&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::72C0081F-F553-4DE5-A832-995FA01EF677::net9.0::AdventOfTests.Day2.Day2Tests.CountSafeReportsWithTolerance_WithRealInput_ReturnsAnswer&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
