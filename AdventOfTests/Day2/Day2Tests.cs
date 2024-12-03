@@ -16,7 +16,7 @@ public class Day2Tests
     public void CountSafeReports_WithExampleInput_ReturnsExampleAnswer()
     {
         // Arrange
-        var filePath = "./Day2/day-2-2-example.txt";
+        var filePath = "./Day2/day-2-example.txt";
         
         // Act
         var result = CountSafeReports(filePath);
@@ -29,7 +29,7 @@ public class Day2Tests
     public void CountSafeReports_WithRealInput_ReturnsAnswer()
     {
         // Arrange
-        var filePath = "./Day2/day-2-2-input.txt";
+        var filePath = "./Day2/day-2-input.txt";
         
         // Act
         var result = CountSafeReports(filePath);
@@ -42,7 +42,7 @@ public class Day2Tests
     public void CountSafeReportsWithTolerance_WithExampleInput_ReturnsExampleAnswer()
     {
         // Arrange
-        var filePath = "./Day2/day-2-2-example.txt";
+        var filePath = "./Day2/day-2-example.txt";
         
         // Act
         var result = CountSafeReportsWithTolerance(filePath);
@@ -55,7 +55,7 @@ public class Day2Tests
     public void CountSafeReportsWithTolerance_WithRealInput_ReturnsAnswer()
     {
         // Arrange
-        var filePath = "./Day2/day-2-2-input.txt";
+        var filePath = "./Day2/day-2-input.txt";
         
         // Act
         var result = CountSafeReportsWithTolerance(filePath);

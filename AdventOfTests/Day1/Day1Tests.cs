@@ -16,7 +16,7 @@ public class Day1Tests
     public void FindListDistance_WithExampleInput_ReturnsExampleAnswer()
     {
         // Arrange
-        var filePath = "./Day1/day-1-1-example.txt";
+        var filePath = "./Day1/day-1-example.txt";
         
         // Act
         var result = FindListDistance(filePath);
@@ -29,7 +29,7 @@ public class Day1Tests
     public void FindListDistance_WithRealInput_ReturnsAnswer()
     {
         // Arrange
-        var filePath = "./Day1/day-1-1-input.txt";
+        var filePath = "./Day1/day-1-input.txt";
         
         // Act
         var result = FindListDistance(filePath);
@@ -42,7 +42,7 @@ public class Day1Tests
     public void FindListSimilarity_WithExampleInput_ReturnsExampleAnswer()
     {
         // Arrange
-        var filePath = "./Day1/day-1-1-example.txt";
+        var filePath = "./Day1/day-1-example.txt";
         
         // Act
         var result = FindListSimilarity(filePath);
@@ -55,7 +55,7 @@ public class Day1Tests
     public void FindListSimilarity_WithRealInput_ReturnsAnswer()
     {
         // Arrange
-        var filePath = "./Day1/day-1-1-input.txt";
+        var filePath = "./Day1/day-1-input.txt";
         
         // Act
         var result = FindListSimilarity(filePath);
